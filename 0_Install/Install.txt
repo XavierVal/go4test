@@ -1,0 +1,15 @@
+Go en general:
+https://golang.org/doc/
+
+Instalar las GO tools:
+https://golang.org/doc/install
+Español:
+http://go-tour-es.appspot.com/#1
+
+Test your installation
+> go run hello.go
+
+Online Tour:
+https://tour.golang.org/#
+
+
